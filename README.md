@@ -12,6 +12,8 @@ EC2(db) x1
 <br />
 ALb x 1(HTTP & HTTPS Listener)
 <br />
+EFS
+<br />
 Route53
 <br />
 ACM
